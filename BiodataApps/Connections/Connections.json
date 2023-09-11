@@ -1,0 +1,27 @@
+{
+  "ebd83e44-84bd-4082-8a1f-060783e31ba4": {
+    "connectionRef": {
+      "apiTier": "Standard",
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1654/1.0.1654.3410/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline",
+      "parameterHints": {},
+      "parameterHintsV2": {}
+    },
+    "datasets": {
+      "https://sigmacoid.sharepoint.com/sites/my-first-site": {
+        "dataSources": {
+          "Biodata-list": {
+            "tableName": "4fcfcdb2-87fc-463a-8358-fffe055d27d1"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "Biodata-list"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "ebd83e44-84bd-4082-8a1f-060783e31ba4"
+  }
+}
