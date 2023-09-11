@@ -633,7 +633,7 @@
     Button1 As button:
         Height: =51
         OnSelect: =SubmitForm(Form_Biodata)
-        Text: ="Submit"
+        Text: ="Masuk"
         Width: =221
         X: =814
         Y: =605
