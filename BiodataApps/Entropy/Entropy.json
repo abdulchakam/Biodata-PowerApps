@@ -4,6 +4,7 @@
   "ControlUniqueIds": {
     "App": 1,
     "Button1": 49,
+    "Button1_1": 50,
     "Button2": 7,
     "DataCardKey12": 10,
     "DataCardKey13": 14,
@@ -53,7 +54,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "09/11/2023 04:06:41",
+  "HeaderLastSavedDateTimeUTC": "09/11/2023 04:08:33",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "ebd83e44-84bd-4082-8a1f-060783e31ba4": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/shared-sharepointonl-5b98d4bd-440b-4a3b-baf2-84363ad61aef\""
@@ -86,6 +87,7 @@
   "OverridablePropertiesEntry": {
     "App": {},
     "Button1": {},
+    "Button1_1": {},
     "Button2": {},
     "DataCardKey12": {},
     "DataCardKey13": {},
@@ -138,6 +140,7 @@
   "PublishOrderIndices": {
     "App": 0,
     "Button1": 44,
+    "Button1_1": 44,
     "Button2": 2,
     "DataCardKey12": 5,
     "DataCardKey13": 9,
@@ -191,9 +194,9 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.467689,
+    "AnalysisLoadTime": 0.669035,
     "ControlCount": {
-      "button": 2,
+      "button": 3,
       "datepicker": 1,
       "dropdown": 4,
       "form": 1,
@@ -204,7 +207,7 @@
       "text": 4,
       "typedDataCard": 10
     },
-    "DeserializationLoadTime": 1.093225
+    "DeserializationLoadTime": 1.5062621
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
